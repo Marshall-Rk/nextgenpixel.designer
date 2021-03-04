@@ -1,6 +1,7 @@
 /* Base */
 html {
-  overflow-x: hidden; }
+  max-width: 100%;
+    overflow-x: hidden;}
 
 body {
   line-height: 1.7;
